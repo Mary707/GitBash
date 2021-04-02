@@ -1,0 +1,9 @@
+#!/bin/bash
+cd pap1
+mkdir sc1 sc2 sc3
+cd sc1
+touch p1.txt p2.txt p3.txt a.json b.json
+mkdir n1 n2 n3
+ls
+mv p1.txt /c/Users/Mary/git/GitBash/pap1/sc1/n1
+mv a.json /c/Users/Mary/git/GitBash/pap1/sc1/n2
